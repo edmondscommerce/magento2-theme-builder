@@ -12,8 +12,10 @@ Given a list of branding colours, generates an entire theme structure based on t
 
 ## Usage
 
+Format:
+
     bash run.bash [vendorname] [packagename] [colour-one] [colour-two] [colour-three] [colour-four]
     
 Example:
 
-    bash run.bash EdmondsCommerce My2018Theme #CC0000 #0000CC #FFFFFF #333333
+    bash run.bash "EdmondsCommerce" "My2018Theme" "#CC0000" "#0000CC" "#FFFFFF" "#333333"
