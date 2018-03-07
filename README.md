@@ -1,4 +1,5 @@
 # magento2-theme-builder
+## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
 Bash script to generate a Magento theme based on colour parameters
 
